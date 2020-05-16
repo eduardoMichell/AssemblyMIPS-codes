@@ -1,2 +1,4 @@
-# Programas-AssemblyMIPS
-Programas feitos no AssemblyMIPS, na matéria de Arquitetura de Computadores.
+# AssemblyMIPS - codes
+Programs made at Assembly MIPS.
+
+
