@@ -1,4 +1,4 @@
 # AssemblyMIPS - codes
-Programs made at Assembly MIPS.
+Programs maded in Assembly MIPS.
 
 
